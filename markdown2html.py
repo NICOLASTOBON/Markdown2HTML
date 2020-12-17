@@ -3,6 +3,7 @@ import os
 import re
 import sys
 import hashlib
+""" Markdown to HTML """
 
 
 def parse_text_style(string):
